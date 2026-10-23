@@ -1,0 +1,21 @@
+{
+  "_scan_interval_seconds": 35,
+  "_proxy_optional_http": null,
+  "_terrains": [
+    {
+      "name": "🔥 Nike Dunks",
+      "color": "#FF0044",
+      "url": "https://www.vinted.fr/catalog?brand_ids%[]=374&search%5Bcategory_id%5D=2"
+    },
+    {
+      "name": "⚽ Maillots Vintage",
+      "color": "#33AA33",
+      "url": "https://www.vinted.fr/vetements?brand_ids%[]=876"
+    },
+    {
+      "name": "🎁 Free Stuff Hunt",
+      "color": "#AAAAAA",
+      "url": "https://www.vinted.fr/femmes/nouveautes?price_from=&price_to=10&currency=EUR&order=newest_first"
+    }
+  ]
+}
